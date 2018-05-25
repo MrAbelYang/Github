@@ -25,6 +25,7 @@ const char* huiwen(const char*  str)
 }
 
 int main(int argc, const char * argv[]) {
+    printf("判断一个字符串内容是否为对称串？:\n");
     char a[20];
     printf("input:\n");
     scanf("%s",a);
